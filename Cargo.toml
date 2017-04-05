@@ -1,0 +1,9 @@
+[package]
+name = "meetup-scanner"
+version = "0.1.0"
+authors = ["Sebastián Magrí <sebasmagri@gmail.com>"]
+
+[dependencies]
+chrono = "0.2"
+reqwest = "0.5"
+serde_json = "0.9"
